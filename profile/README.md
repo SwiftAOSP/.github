@@ -1,7 +1,9 @@
 ![INFO](https://raw.githubusercontent.com/SwiftOS-DROID/.github/main/web/infocard.png)
 # SwiftOS
-
 SwiftOS is a ROM that focuses on having unique features without compromising the performance of AOSP
+
+### Warning!
+Currently SwiftAOSP can't sync because it's not fully finished yet, we need some time to finish it
 
 ### Quick Sync Source
 ```bash
