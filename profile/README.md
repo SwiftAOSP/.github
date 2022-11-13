@@ -1,4 +1,4 @@
-![INFO](https://raw.githubusercontent.com/SwiftOS-DROID/.github/main/web/infocard.png)
+![INFO](https://github.com/SwiftifyLab/database/raw/web/data/image/readmeheader.png)
 # SwiftOS
 SwiftOS is a ROM that focuses on having unique features without compromising the performance of AOSP
 
